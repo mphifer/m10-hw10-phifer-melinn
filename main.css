@@ -6,3 +6,32 @@
   opacity: 1;
   transition: opacity 1s;
 }
+
+body {
+  background-color: #cee8f0;
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+  color: navy;
+}
+
+header {
+  background-color: navy;
+  padding: 20px;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  color: white;
+}
+
+#good-temp {
+  color: orange;
+}
+
+#good-temp h2 {
+  font-size: 2.8rem;
+}
+#good-temp p {
+  font-size: 2.1rem;
+}
